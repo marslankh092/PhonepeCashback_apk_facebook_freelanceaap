@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Phonepe Cashback</string>
+    <string name="next_step"><b>Next Step:</b>\nClick send money to directly send reward amount to your bank account.</string>
+    <string name="send_prize_money_in_bank">Send Prize Money In Bank</string>
+    <string name="order_desc">Server is busy right now due to high number of \norders. May be it will take up to 10 minutes for \n confirm your order.</string>
+    <string name="this_offer_only_valid_for_credit_debit_card_users">This offer only valid for credit / debit card users</string>
+    <string name="code">Code</string>
+    <string name="_91">+91</string>
+    <string name="your_mobile_number">Your Mobile Number</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_holder_name">Card holder name</string>
+    <string name="submit">Submit</string>
+    <string name="required">Required</string>
+    <string name="expiry">Expiry</string>
+    <string name="cvv">CVV</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="redeem_desc">Your cashback is redeemed successfully and it will transfer within 2–3 hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="hours">Hours</string>
+    <string name="invalid_expiry">Invalid expiry</string>
+    <string name="warning">Warning</string>
+    <string name="info">Info</string>
+    <string name="permission_desc">Please provide permission to continue...</string>
+</resources>

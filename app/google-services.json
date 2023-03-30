@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594854251303",
+    "firebase_url": "https://barber-shop-01-default-rtdb.firebaseio.com",
+    "project_id": "barber-shop-01",
+    "storage_bucket": "barber-shop-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594854251303:android:552c4d9fb4bb99687d7702",
+        "android_client_info": {
+          "package_name": "org.phone.pe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594854251303-fq43lvvgl3shne5ntelcbn25f19q0j6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwe-FWoymBertLzcauPpCpa86PJavoHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594854251303-fq43lvvgl3shne5ntelcbn25f19q0j6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
